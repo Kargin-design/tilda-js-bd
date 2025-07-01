@@ -1,1 +1,28 @@
-alert("Привет! Этот JavaScript-файл загружен с GitHub Pages и работает через Tilda!");
+{
+  "brands": [
+    {
+      "name": "Coca-Cola",
+      "categories": [
+        { "name": "Билборды", "price": 5000 },
+        { "name": "Таргетинг", "price": 3000 },
+        { "name": "Спонсорство", "price": 7000 }
+      ]
+    },
+    {
+      "name": "Nike",
+      "categories": [
+        { "name": "Инфлюенсеры", "price": 4000 },
+        { "name": "Таргетинг", "price": 3000 },
+        { "name": "Видеореклама", "price": 6000 }
+      ]
+    },
+    {
+      "name": "Apple",
+      "categories": [
+        { "name": "Видеореклама", "price": 6000 },
+        { "name": "Спонсорство", "price": 7000 },
+        { "name": "Офлайн-мероприятия", "price": 8000 }
+      ]
+    }
+  ]
+}
