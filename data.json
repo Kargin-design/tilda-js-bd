@@ -1,5 +1,1 @@
-[
-  { "brand": "Nike", "price": 120 },
-  { "brand": "Adidas", "price": 100 },
-  { "brand": "Puma", "price": 90 }
-]
+alert("Привет! Этот JavaScript-файл загружен с GitHub Pages и работает через Tilda!");
