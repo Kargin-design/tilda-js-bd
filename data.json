@@ -1,0 +1,5 @@
+[
+  { "brand": "Nike", "price": 120 },
+  { "brand": "Adidas", "price": 100 },
+  { "brand": "Puma", "price": 90 }
+]
