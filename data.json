@@ -3,25 +3,3565 @@
     {
       "name": "Coca-Cola",
       "categories": [
-        { "name": "Билборды", "price": 5000 },
-        { "name": "Таргетинг", "price": 3000 },
-        { "name": "Спонсорство", "price": 7000 }
+        {
+          "name": "RTB",
+          "price": 27174,
+          "subcategories": [
+            {
+              "name": "Ремонт",
+              "price": 9305
+            },
+            {
+              "name": "DIY",
+              "price": 9940
+            },
+            {
+              "name": "Игры",
+              "price": 7929
+            }
+          ]
+        },
+        {
+          "name": "Промо-акции",
+          "price": 21216,
+          "subcategories": [
+            {
+              "name": "Семья",
+              "price": 6414
+            },
+            {
+              "name": "Питер",
+              "price": 3848
+            },
+            {
+              "name": "DIY",
+              "price": 9084
+            },
+            {
+              "name": "Свадьба",
+              "price": 1870
+            }
+          ]
+        },
+        {
+          "name": "Аналитика",
+          "price": 5411,
+          "subcategories": [
+            {
+              "name": "Live",
+              "price": 5411
+            }
+          ]
+        },
+        {
+          "name": "Реклама в играх",
+          "price": 9198,
+          "subcategories": [
+            {
+              "name": "Шопинг",
+              "price": 2262
+            },
+            {
+              "name": "Комиксы",
+              "price": 6936
+            }
+          ]
+        },
+        {
+          "name": "Печатные СМИ",
+          "price": 18412,
+          "subcategories": [
+            {
+              "name": "Эконом",
+              "price": 4065
+            },
+            {
+              "name": "Недвижимость",
+              "price": 5980
+            },
+            {
+              "name": "Гастрономия",
+              "price": 8367
+            }
+          ]
+        }
       ]
     },
     {
       "name": "Nike",
       "categories": [
-        { "name": "Инфлюенсеры", "price": 4000 },
-        { "name": "Таргетинг", "price": 3000 },
-        { "name": "Видеореклама", "price": 6000 }
+        {
+          "name": "Промо-акции",
+          "price": 13887,
+          "subcategories": [
+            {
+              "name": "Питер",
+              "price": 2447
+            },
+            {
+              "name": "Животные",
+              "price": 9809
+            },
+            {
+              "name": "Мужчины",
+              "price": 1631
+            }
+          ]
+        },
+        {
+          "name": "Билборды",
+          "price": 6504,
+          "subcategories": [
+            {
+              "name": "Развлечения",
+              "price": 6504
+            }
+          ]
+        },
+        {
+          "name": "Радио",
+          "price": 1860,
+          "subcategories": [
+            {
+              "name": "Аксессуары",
+              "price": 1860
+            }
+          ]
+        }
       ]
     },
     {
       "name": "Apple",
       "categories": [
-        { "name": "Видеореклама", "price": 6000 },
-        { "name": "Спонсорство", "price": 7000 },
-        { "name": "Офлайн-мероприятия", "price": 8000 }
+        {
+          "name": "Инфлюенсеры",
+          "price": 15332,
+          "subcategories": [
+            {
+              "name": "Новости",
+              "price": 3017
+            },
+            {
+              "name": "Москва",
+              "price": 7630
+            },
+            {
+              "name": "ЦА 25-34",
+              "price": 4685
+            }
+          ]
+        },
+        {
+          "name": "SEO",
+          "price": 21577,
+          "subcategories": [
+            {
+              "name": "Обучение",
+              "price": 2476
+            },
+            {
+              "name": "Эко",
+              "price": 1590
+            },
+            {
+              "name": "Новости",
+              "price": 9484
+            },
+            {
+              "name": "Туризм",
+              "price": 8027
+            }
+          ]
+        },
+        {
+          "name": "PR",
+          "price": 25780,
+          "subcategories": [
+            {
+              "name": "Спорт",
+              "price": 9559
+            },
+            {
+              "name": "Карьера",
+              "price": 7465
+            },
+            {
+              "name": "ЗОЖ",
+              "price": 8756
+            }
+          ]
+        },
+        {
+          "name": "Купоны",
+          "price": 14103,
+          "subcategories": [
+            {
+              "name": "Smart",
+              "price": 4886
+            },
+            {
+              "name": "Москва",
+              "price": 9217
+            }
+          ]
+        },
+        {
+          "name": "Интернет-магазины",
+          "price": 23696,
+          "subcategories": [
+            {
+              "name": "Новости",
+              "price": 2953
+            },
+            {
+              "name": "ЗОЖ",
+              "price": 4984
+            },
+            {
+              "name": "Культура",
+              "price": 6202
+            },
+            {
+              "name": "Образование",
+              "price": 9557
+            }
+          ]
+        },
+        {
+          "name": "Email-маркетинг",
+          "price": 7722,
+          "subcategories": [
+            {
+              "name": "Дом",
+              "price": 7722
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Samsung",
+      "categories": [
+        {
+          "name": "Игры",
+          "price": 21077,
+          "subcategories": [
+            {
+              "name": "Игры",
+              "price": 2944
+            },
+            {
+              "name": "Финансы",
+              "price": 7360
+            },
+            {
+              "name": "Косметика",
+              "price": 1040
+            },
+            {
+              "name": "Образование",
+              "price": 9733
+            }
+          ]
+        },
+        {
+          "name": "Подкасты",
+          "price": 18881,
+          "subcategories": [
+            {
+              "name": "Культура",
+              "price": 9086
+            },
+            {
+              "name": "Комиксы",
+              "price": 4316
+            },
+            {
+              "name": "Техника",
+              "price": 5479
+            }
+          ]
+        },
+        {
+          "name": "SEO",
+          "price": 17091,
+          "subcategories": [
+            {
+              "name": "Развлечения",
+              "price": 5013
+            },
+            {
+              "name": "Технологии",
+              "price": 5531
+            },
+            {
+              "name": "Эконом",
+              "price": 6547
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Adidas",
+      "categories": [
+        {
+          "name": "Видеореклама",
+          "price": 21359,
+          "subcategories": [
+            {
+              "name": "Сериалы",
+              "price": 9207
+            },
+            {
+              "name": "Премиум",
+              "price": 8364
+            },
+            {
+              "name": "Блогеры",
+              "price": 1751
+            },
+            {
+              "name": "Мобильные",
+              "price": 2037
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pepsi",
+      "categories": [
+        {
+          "name": "Радио",
+          "price": 7303,
+          "subcategories": [
+            {
+              "name": "Цветы",
+              "price": 5025
+            },
+            {
+              "name": "Культура",
+              "price": 2278
+            }
+          ]
+        },
+        {
+          "name": "Web push",
+          "price": 11301,
+          "subcategories": [
+            {
+              "name": "Технологии",
+              "price": 4814
+            },
+            {
+              "name": "Подарки",
+              "price": 4204
+            },
+            {
+              "name": "Шопинг",
+              "price": 2283
+            }
+          ]
+        },
+        {
+          "name": "Наружная реклама",
+          "price": 8610,
+          "subcategories": [
+            {
+              "name": "Подарки",
+              "price": 8610
+            }
+          ]
+        },
+        {
+          "name": "Сэмплинг",
+          "price": 29887,
+          "subcategories": [
+            {
+              "name": "ЦА 25-34",
+              "price": 6183
+            },
+            {
+              "name": "Подарки",
+              "price": 9694
+            },
+            {
+              "name": "Блогеры",
+              "price": 6663
+            },
+            {
+              "name": "IT",
+              "price": 7347
+            }
+          ]
+        },
+        {
+          "name": "Игры",
+          "price": 18836,
+          "subcategories": [
+            {
+              "name": "Недвижимость",
+              "price": 3700
+            },
+            {
+              "name": "Цветы",
+              "price": 3038
+            },
+            {
+              "name": "Игры",
+              "price": 6491
+            },
+            {
+              "name": "Гастрономия",
+              "price": 5607
+            }
+          ]
+        },
+        {
+          "name": "Медиа планирование",
+          "price": 16232,
+          "subcategories": [
+            {
+              "name": "Блогеры",
+              "price": 9491
+            },
+            {
+              "name": "Туризм",
+              "price": 6741
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sony",
+      "categories": [
+        {
+          "name": "Таргетинг",
+          "price": 14822,
+          "subcategories": [
+            {
+              "name": "Семья",
+              "price": 1066
+            },
+            {
+              "name": "Мобильные",
+              "price": 8984
+            },
+            {
+              "name": "Игры",
+              "price": 4772
+            }
+          ]
+        },
+        {
+          "name": "SEO",
+          "price": 14881,
+          "subcategories": [
+            {
+              "name": "Книги",
+              "price": 7154
+            },
+            {
+              "name": "Свадьба",
+              "price": 7727
+            }
+          ]
+        },
+        {
+          "name": "Интернет-магазины",
+          "price": 25054,
+          "subcategories": [
+            {
+              "name": "Старшее поколение",
+              "price": 9334
+            },
+            {
+              "name": "Мода",
+              "price": 3648
+            },
+            {
+              "name": "Подарки",
+              "price": 7984
+            },
+            {
+              "name": "Гастрономия",
+              "price": 4088
+            }
+          ]
+        },
+        {
+          "name": "Прямая рассылка",
+          "price": 13124,
+          "subcategories": [
+            {
+              "name": "Развлечения",
+              "price": 8539
+            },
+            {
+              "name": "Спорт",
+              "price": 4585
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Toyota",
+      "categories": [
+        {
+          "name": "AR/VR",
+          "price": 21032,
+          "subcategories": [
+            {
+              "name": "Подарки",
+              "price": 5425
+            },
+            {
+              "name": "Цветы",
+              "price": 7555
+            },
+            {
+              "name": "Обучение",
+              "price": 1670
+            },
+            {
+              "name": "Музыка",
+              "price": 6382
+            }
+          ]
+        },
+        {
+          "name": "Прямая рассылка",
+          "price": 1451,
+          "subcategories": [
+            {
+              "name": "Спорт",
+              "price": 1451
+            }
+          ]
+        },
+        {
+          "name": "Метро",
+          "price": 9709,
+          "subcategories": [
+            {
+              "name": "Путешествия",
+              "price": 7615
+            },
+            {
+              "name": "Ремонт",
+              "price": 2094
+            }
+          ]
+        },
+        {
+          "name": "Интерактив",
+          "price": 16298,
+          "subcategories": [
+            {
+              "name": "Блогеры",
+              "price": 5052
+            },
+            {
+              "name": "Семья",
+              "price": 9191
+            },
+            {
+              "name": "ЗОЖ",
+              "price": 2055
+            }
+          ]
+        },
+        {
+          "name": "RTB",
+          "price": 12599,
+          "subcategories": [
+            {
+              "name": "Недвижимость",
+              "price": 2008
+            },
+            {
+              "name": "Сериалы",
+              "price": 4566
+            },
+            {
+              "name": "Комиксы",
+              "price": 6025
+            }
+          ]
+        },
+        {
+          "name": "Амбассадоры",
+          "price": 8313,
+          "subcategories": [
+            {
+              "name": "Образование",
+              "price": 4722
+            },
+            {
+              "name": "Косметика",
+              "price": 3591
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Amazon",
+      "categories": [
+        {
+          "name": "YouTube",
+          "price": 5648,
+          "subcategories": [
+            {
+              "name": "Региональные",
+              "price": 3163
+            },
+            {
+              "name": "Свадьба",
+              "price": 2485
+            }
+          ]
+        },
+        {
+          "name": "Аналитика",
+          "price": 17184,
+          "subcategories": [
+            {
+              "name": "Игры",
+              "price": 3245
+            },
+            {
+              "name": "Спорт",
+              "price": 7033
+            },
+            {
+              "name": "Развлечения",
+              "price": 1316
+            },
+            {
+              "name": "Финансы",
+              "price": 5590
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Google",
+      "categories": [
+        {
+          "name": "Инфлюенсеры",
+          "price": 17124,
+          "subcategories": [
+            {
+              "name": "Недвижимость",
+              "price": 7963
+            },
+            {
+              "name": "Музыка",
+              "price": 9161
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Microsoft",
+      "categories": [
+        {
+          "name": "Сэмплинг",
+          "price": 5394,
+          "subcategories": [
+            {
+              "name": "Кино",
+              "price": 3461
+            },
+            {
+              "name": "Москва",
+              "price": 1933
+            }
+          ]
+        },
+        {
+          "name": "Аналитика",
+          "price": 16135,
+          "subcategories": [
+            {
+              "name": "Книги",
+              "price": 1320
+            },
+            {
+              "name": "Игры",
+              "price": 4652
+            },
+            {
+              "name": "Интервью",
+              "price": 4249
+            },
+            {
+              "name": "Техника",
+              "price": 5914
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "McDonald's",
+      "categories": [
+        {
+          "name": "Метро",
+          "price": 14293,
+          "subcategories": [
+            {
+              "name": "Женщины",
+              "price": 3135
+            },
+            {
+              "name": "Электроника",
+              "price": 7512
+            },
+            {
+              "name": "Музыка",
+              "price": 3646
+            }
+          ]
+        },
+        {
+          "name": "Транспорт",
+          "price": 27700,
+          "subcategories": [
+            {
+              "name": "Семья",
+              "price": 5792
+            },
+            {
+              "name": "Книги",
+              "price": 8415
+            },
+            {
+              "name": "Образ жизни",
+              "price": 8733
+            },
+            {
+              "name": "Комиксы",
+              "price": 4760
+            }
+          ]
+        },
+        {
+          "name": "Аналитика",
+          "price": 3744,
+          "subcategories": [
+            {
+              "name": "Электроника",
+              "price": 3744
+            }
+          ]
+        },
+        {
+          "name": "Билборды",
+          "price": 9033,
+          "subcategories": [
+            {
+              "name": "Smart",
+              "price": 9033
+            }
+          ]
+        },
+        {
+          "name": "Прямая рассылка",
+          "price": 24246,
+          "subcategories": [
+            {
+              "name": "Live",
+              "price": 6556
+            },
+            {
+              "name": "Красота",
+              "price": 1630
+            },
+            {
+              "name": "IT",
+              "price": 6304
+            },
+            {
+              "name": "Региональные",
+              "price": 9756
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "BMW",
+      "categories": [
+        {
+          "name": "Web push",
+          "price": 2463,
+          "subcategories": [
+            {
+              "name": "DIY",
+              "price": 2463
+            }
+          ]
+        },
+        {
+          "name": "Видеореклама",
+          "price": 16689,
+          "subcategories": [
+            {
+              "name": "Авто",
+              "price": 6855
+            },
+            {
+              "name": "Игры",
+              "price": 9834
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mercedes",
+      "categories": [
+        {
+          "name": "Email-маркетинг",
+          "price": 9784,
+          "subcategories": [
+            {
+              "name": "Подарки",
+              "price": 9784
+            }
+          ]
+        },
+        {
+          "name": "Прямая рассылка",
+          "price": 22257,
+          "subcategories": [
+            {
+              "name": "Мужчины",
+              "price": 9034
+            },
+            {
+              "name": "Премиум",
+              "price": 9659
+            },
+            {
+              "name": "Обувь",
+              "price": 3564
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Intel",
+      "categories": [
+        {
+          "name": "Сэмплинг",
+          "price": 5387,
+          "subcategories": [
+            {
+              "name": "Красота",
+              "price": 5387
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Facebook",
+      "categories": [
+        {
+          "name": "Амбассадоры",
+          "price": 21325,
+          "subcategories": [
+            {
+              "name": "CA 35-50",
+              "price": 6042
+            },
+            {
+              "name": "Live",
+              "price": 1807
+            },
+            {
+              "name": "ЦА 25-34",
+              "price": 6445
+            },
+            {
+              "name": "Блогеры",
+              "price": 7031
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Netflix",
+      "categories": [
+        {
+          "name": "Прямая рассылка",
+          "price": 13304,
+          "subcategories": [
+            {
+              "name": "Подарки",
+              "price": 5554
+            },
+            {
+              "name": "Обучение",
+              "price": 7750
+            }
+          ]
+        },
+        {
+          "name": "Офлайн-мероприятия",
+          "price": 16161,
+          "subcategories": [
+            {
+              "name": "Свадьба",
+              "price": 8015
+            },
+            {
+              "name": "ТВ-шоу",
+              "price": 2061
+            },
+            {
+              "name": "Обувь",
+              "price": 6085
+            }
+          ]
+        },
+        {
+          "name": "Медиа планирование",
+          "price": 17270,
+          "subcategories": [
+            {
+              "name": "Старшее поколение",
+              "price": 2081
+            },
+            {
+              "name": "Новости",
+              "price": 8283
+            },
+            {
+              "name": "Музыка",
+              "price": 6906
+            }
+          ]
+        },
+        {
+          "name": "Промо-стойки",
+          "price": 9002,
+          "subcategories": [
+            {
+              "name": "Недвижимость",
+              "price": 9002
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Starbucks",
+      "categories": [
+        {
+          "name": "Радио",
+          "price": 7801,
+          "subcategories": [
+            {
+              "name": "Smart",
+              "price": 7801
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tesla",
+      "categories": [
+        {
+          "name": "CRM",
+          "price": 26001,
+          "subcategories": [
+            {
+              "name": "Карьера",
+              "price": 1308
+            },
+            {
+              "name": "Live",
+              "price": 7953
+            },
+            {
+              "name": "Дом",
+              "price": 7722
+            },
+            {
+              "name": "Недвижимость",
+              "price": 9018
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "IKEA",
+      "categories": [
+        {
+          "name": "Медиа планирование",
+          "price": 14115,
+          "subcategories": [
+            {
+              "name": "Электроника",
+              "price": 7846
+            },
+            {
+              "name": "Финансы",
+              "price": 6269
+            }
+          ]
+        },
+        {
+          "name": "Сэмплинг",
+          "price": 13529,
+          "subcategories": [
+            {
+              "name": "Молодежь",
+              "price": 6831
+            },
+            {
+              "name": "Эконом",
+              "price": 6698
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Puma",
+      "categories": [
+        {
+          "name": "Тренды",
+          "price": 3846,
+          "subcategories": [
+            {
+              "name": "Дети",
+              "price": 3846
+            }
+          ]
+        },
+        {
+          "name": "Наружная реклама",
+          "price": 11209,
+          "subcategories": [
+            {
+              "name": "Свадьба",
+              "price": 2144
+            },
+            {
+              "name": "Техника",
+              "price": 3668
+            },
+            {
+              "name": "Бизнес",
+              "price": 1028
+            },
+            {
+              "name": "Smart",
+              "price": 4369
+            }
+          ]
+        },
+        {
+          "name": "Сэмплинг",
+          "price": 6665,
+          "subcategories": [
+            {
+              "name": "Мужчины",
+              "price": 6665
+            }
+          ]
+        },
+        {
+          "name": "Интерактив",
+          "price": 6295,
+          "subcategories": [
+            {
+              "name": "Музыка",
+              "price": 4634
+            },
+            {
+              "name": "Кино",
+              "price": 1661
+            }
+          ]
+        },
+        {
+          "name": "Флаеры",
+          "price": 5611,
+          "subcategories": [
+            {
+              "name": "ТВ-шоу",
+              "price": 2254
+            },
+            {
+              "name": "Обучение",
+              "price": 3357
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nestle",
+      "categories": [
+        {
+          "name": "Баннеры",
+          "price": 24874,
+          "subcategories": [
+            {
+              "name": "Цветы",
+              "price": 8811
+            },
+            {
+              "name": "ТВ-шоу",
+              "price": 1278
+            },
+            {
+              "name": "ЦА 25-34",
+              "price": 8038
+            },
+            {
+              "name": "Мужчины",
+              "price": 6747
+            }
+          ]
+        },
+        {
+          "name": "Контекст",
+          "price": 8469,
+          "subcategories": [
+            {
+              "name": "Москва",
+              "price": 8469
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "LG",
+      "categories": [
+        {
+          "name": "Аналитика",
+          "price": 11265,
+          "subcategories": [
+            {
+              "name": "Подарки",
+              "price": 1890
+            },
+            {
+              "name": "Москва",
+              "price": 2615
+            },
+            {
+              "name": "Свадьба",
+              "price": 6760
+            }
+          ]
+        },
+        {
+          "name": "Инфлюенсеры",
+          "price": 3164,
+          "subcategories": [
+            {
+              "name": "Блогеры",
+              "price": 3164
+            }
+          ]
+        },
+        {
+          "name": "Флаеры",
+          "price": 23517,
+          "subcategories": [
+            {
+              "name": "Комиксы",
+              "price": 6852
+            },
+            {
+              "name": "Smart",
+              "price": 9483
+            },
+            {
+              "name": "Подарки",
+              "price": 7182
+            }
+          ]
+        },
+        {
+          "name": "Web push",
+          "price": 18361,
+          "subcategories": [
+            {
+              "name": "Эко",
+              "price": 2249
+            },
+            {
+              "name": "Москва",
+              "price": 7867
+            },
+            {
+              "name": "Премиум",
+              "price": 8245
+            }
+          ]
+        },
+        {
+          "name": "Радио",
+          "price": 3902,
+          "subcategories": [
+            {
+              "name": "Техника",
+              "price": 3902
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Panasonic",
+      "categories": [
+        {
+          "name": "YouTube",
+          "price": 18851,
+          "subcategories": [
+            {
+              "name": "Культура",
+              "price": 7827
+            },
+            {
+              "name": "CA 35-50",
+              "price": 5317
+            },
+            {
+              "name": "Интервью",
+              "price": 5707
+            }
+          ]
+        },
+        {
+          "name": "RTB",
+          "price": 9992,
+          "subcategories": [
+            {
+              "name": "ТВ-шоу",
+              "price": 2577
+            },
+            {
+              "name": "Сериалы",
+              "price": 5911
+            },
+            {
+              "name": "Шопинг",
+              "price": 1504
+            }
+          ]
+        },
+        {
+          "name": "Игры",
+          "price": 9944,
+          "subcategories": [
+            {
+              "name": "Электроника",
+              "price": 9944
+            }
+          ]
+        },
+        {
+          "name": "Амбассадоры",
+          "price": 18591,
+          "subcategories": [
+            {
+              "name": "Карьера",
+              "price": 8560
+            },
+            {
+              "name": "Молодежь",
+              "price": 5651
+            },
+            {
+              "name": "Live",
+              "price": 4380
+            }
+          ]
+        },
+        {
+          "name": "Интернет-магазины",
+          "price": 7012,
+          "subcategories": [
+            {
+              "name": "Мода",
+              "price": 7012
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Philips",
+      "categories": [
+        {
+          "name": "Офлайн-мероприятия",
+          "price": 8513,
+          "subcategories": [
+            {
+              "name": "Питер",
+              "price": 8513
+            }
+          ]
+        },
+        {
+          "name": "Печатные СМИ",
+          "price": 7205,
+          "subcategories": [
+            {
+              "name": "Образование",
+              "price": 7205
+            }
+          ]
+        },
+        {
+          "name": "DOOH",
+          "price": 5887,
+          "subcategories": [
+            {
+              "name": "Старшее поколение",
+              "price": 5887
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ford",
+      "categories": [
+        {
+          "name": "Телевидение",
+          "price": 19834,
+          "subcategories": [
+            {
+              "name": "Авто",
+              "price": 7067
+            },
+            {
+              "name": "Культура",
+              "price": 6953
+            },
+            {
+              "name": "Питер",
+              "price": 5814
+            }
+          ]
+        },
+        {
+          "name": "Билборды",
+          "price": 10791,
+          "subcategories": [
+            {
+              "name": "DIY",
+              "price": 4821
+            },
+            {
+              "name": "Мобильные",
+              "price": 5970
+            }
+          ]
+        },
+        {
+          "name": "Интернет-магазины",
+          "price": 5431,
+          "subcategories": [
+            {
+              "name": "Блогеры",
+              "price": 5431
+            }
+          ]
+        },
+        {
+          "name": "CRM",
+          "price": 14847,
+          "subcategories": [
+            {
+              "name": "DIY",
+              "price": 3269
+            },
+            {
+              "name": "Красота",
+              "price": 6903
+            },
+            {
+              "name": "Туризм",
+              "price": 1626
+            },
+            {
+              "name": "Музыка",
+              "price": 3049
+            }
+          ]
+        },
+        {
+          "name": "Транспорт",
+          "price": 25349,
+          "subcategories": [
+            {
+              "name": "Образ жизни",
+              "price": 3412
+            },
+            {
+              "name": "Свадьба",
+              "price": 6549
+            },
+            {
+              "name": "Музыка",
+              "price": 6809
+            },
+            {
+              "name": "Культура",
+              "price": 8579
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chevrolet",
+      "categories": [
+        {
+          "name": "Купоны",
+          "price": 1792,
+          "subcategories": [
+            {
+              "name": "Интервью",
+              "price": 1792
+            }
+          ]
+        },
+        {
+          "name": "Игры",
+          "price": 14371,
+          "subcategories": [
+            {
+              "name": "Недвижимость",
+              "price": 6707
+            },
+            {
+              "name": "Молодежь",
+              "price": 3125
+            },
+            {
+              "name": "Обучение",
+              "price": 4539
+            }
+          ]
+        },
+        {
+          "name": "Инфлюенсеры",
+          "price": 25484,
+          "subcategories": [
+            {
+              "name": "Образ жизни",
+              "price": 1890
+            },
+            {
+              "name": "Интервью",
+              "price": 7233
+            },
+            {
+              "name": "Бизнес",
+              "price": 7867
+            },
+            {
+              "name": "Live",
+              "price": 8494
+            }
+          ]
+        },
+        {
+          "name": "Спонсорство",
+          "price": 14869,
+          "subcategories": [
+            {
+              "name": "Эко",
+              "price": 2978
+            },
+            {
+              "name": "Цветы",
+              "price": 6720
+            },
+            {
+              "name": "Культура",
+              "price": 5171
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "KFC",
+      "categories": [
+        {
+          "name": "Медиа планирование",
+          "price": 25490,
+          "subcategories": [
+            {
+              "name": "Культура",
+              "price": 7912
+            },
+            {
+              "name": "Развлечения",
+              "price": 2420
+            },
+            {
+              "name": "ТВ-шоу",
+              "price": 5281
+            },
+            {
+              "name": "Кино",
+              "price": 9877
+            }
+          ]
+        },
+        {
+          "name": "Метро",
+          "price": 10934,
+          "subcategories": [
+            {
+              "name": "Подарки",
+              "price": 4930
+            },
+            {
+              "name": "Туризм",
+              "price": 4028
+            },
+            {
+              "name": "Красота",
+              "price": 1976
+            }
+          ]
+        },
+        {
+          "name": "DOOH",
+          "price": 21164,
+          "subcategories": [
+            {
+              "name": "Шопинг",
+              "price": 4940
+            },
+            {
+              "name": "Женщины",
+              "price": 9385
+            },
+            {
+              "name": "Ремонт",
+              "price": 6839
+            }
+          ]
+        },
+        {
+          "name": "Прямая рассылка",
+          "price": 11116,
+          "subcategories": [
+            {
+              "name": "Премиум",
+              "price": 5133
+            },
+            {
+              "name": "Красота",
+              "price": 5983
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unilever",
+      "categories": [
+        {
+          "name": "Билборды",
+          "price": 18425,
+          "subcategories": [
+            {
+              "name": "Региональные",
+              "price": 3473
+            },
+            {
+              "name": "Мужчины",
+              "price": 9500
+            },
+            {
+              "name": "Цветы",
+              "price": 5452
+            }
+          ]
+        },
+        {
+          "name": "RTB",
+          "price": 2925,
+          "subcategories": [
+            {
+              "name": "ЦА 25-34",
+              "price": 2925
+            }
+          ]
+        },
+        {
+          "name": "Печатные СМИ",
+          "price": 4742,
+          "subcategories": [
+            {
+              "name": "Обувь",
+              "price": 4742
+            }
+          ]
+        },
+        {
+          "name": "Аналитика",
+          "price": 16921,
+          "subcategories": [
+            {
+              "name": "Технологии",
+              "price": 7100
+            },
+            {
+              "name": "Дети",
+              "price": 9821
+            }
+          ]
+        },
+        {
+          "name": "Амбассадоры",
+          "price": 8782,
+          "subcategories": [
+            {
+              "name": "Недвижимость",
+              "price": 4153
+            },
+            {
+              "name": "IT",
+              "price": 4629
+            }
+          ]
+        },
+        {
+          "name": "Инфлюенсеры",
+          "price": 26425,
+          "subcategories": [
+            {
+              "name": "Аксессуары",
+              "price": 7828
+            },
+            {
+              "name": "IT",
+              "price": 9778
+            },
+            {
+              "name": "Молодежь",
+              "price": 8819
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Huawei",
+      "categories": [
+        {
+          "name": "Видеореклама",
+          "price": 13039,
+          "subcategories": [
+            {
+              "name": "Подарки",
+              "price": 4109
+            },
+            {
+              "name": "Карьера",
+              "price": 2550
+            },
+            {
+              "name": "Красота",
+              "price": 6380
+            }
+          ]
+        },
+        {
+          "name": "Подкасты",
+          "price": 20177,
+          "subcategories": [
+            {
+              "name": "Дом",
+              "price": 7075
+            },
+            {
+              "name": "ЦА 25-34",
+              "price": 6098
+            },
+            {
+              "name": "Путешествия",
+              "price": 7004
+            }
+          ]
+        },
+        {
+          "name": "Контекст",
+          "price": 5276,
+          "subcategories": [
+            {
+              "name": "ТВ-шоу",
+              "price": 5276
+            }
+          ]
+        },
+        {
+          "name": "Игры",
+          "price": 8012,
+          "subcategories": [
+            {
+              "name": "Животные",
+              "price": 1204
+            },
+            {
+              "name": "Спорт",
+              "price": 1846
+            },
+            {
+              "name": "Москва",
+              "price": 4962
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lexus",
+      "categories": [
+        {
+          "name": "Сэмплинг",
+          "price": 1006,
+          "subcategories": [
+            {
+              "name": "CA 35-50",
+              "price": 1006
+            }
+          ]
+        },
+        {
+          "name": "Флаеры",
+          "price": 7648,
+          "subcategories": [
+            {
+              "name": "IT",
+              "price": 7648
+            }
+          ]
+        },
+        {
+          "name": "Офлайн-мероприятия",
+          "price": 9371,
+          "subcategories": [
+            {
+              "name": "CA 35-50",
+              "price": 2423
+            },
+            {
+              "name": "Цветы",
+              "price": 4240
+            },
+            {
+              "name": "Косметика",
+              "price": 2708
+            }
+          ]
+        },
+        {
+          "name": "Контекст",
+          "price": 14366,
+          "subcategories": [
+            {
+              "name": "Образование",
+              "price": 8215
+            },
+            {
+              "name": "Игры",
+              "price": 6151
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Zara",
+      "categories": [
+        {
+          "name": "Купоны",
+          "price": 18275,
+          "subcategories": [
+            {
+              "name": "ЦА 25-34",
+              "price": 2559
+            },
+            {
+              "name": "Образование",
+              "price": 4321
+            },
+            {
+              "name": "DIY",
+              "price": 2030
+            },
+            {
+              "name": "Дети",
+              "price": 9365
+            }
+          ]
+        },
+        {
+          "name": "Медиа планирование",
+          "price": 13193,
+          "subcategories": [
+            {
+              "name": "Животные",
+              "price": 8555
+            },
+            {
+              "name": "Дети",
+              "price": 4638
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "H&M",
+      "categories": [
+        {
+          "name": "Видеореклама",
+          "price": 4196,
+          "subcategories": [
+            {
+              "name": "Красота",
+              "price": 4196
+            }
+          ]
+        },
+        {
+          "name": "Инфлюенсеры",
+          "price": 30486,
+          "subcategories": [
+            {
+              "name": "Образ жизни",
+              "price": 9195
+            },
+            {
+              "name": "Технологии",
+              "price": 4417
+            },
+            {
+              "name": "Недвижимость",
+              "price": 7473
+            },
+            {
+              "name": "Шопинг",
+              "price": 9401
+            }
+          ]
+        },
+        {
+          "name": "Медиа планирование",
+          "price": 16151,
+          "subcategories": [
+            {
+              "name": "Культура",
+              "price": 4193
+            },
+            {
+              "name": "Кино",
+              "price": 6105
+            },
+            {
+              "name": "Новости",
+              "price": 2742
+            },
+            {
+              "name": "Подарки",
+              "price": 3111
+            }
+          ]
+        },
+        {
+          "name": "RTB",
+          "price": 23050,
+          "subcategories": [
+            {
+              "name": "Сериалы",
+              "price": 7340
+            },
+            {
+              "name": "Косметика",
+              "price": 5003
+            },
+            {
+              "name": "Красота",
+              "price": 2762
+            },
+            {
+              "name": "Старшее поколение",
+              "price": 7945
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Heineken",
+      "categories": [
+        {
+          "name": "DOOH",
+          "price": 8852,
+          "subcategories": [
+            {
+              "name": "Семья",
+              "price": 3617
+            },
+            {
+              "name": "Интервью",
+              "price": 5235
+            }
+          ]
+        },
+        {
+          "name": "RTB",
+          "price": 15843,
+          "subcategories": [
+            {
+              "name": "Сериалы",
+              "price": 3363
+            },
+            {
+              "name": "Блогеры",
+              "price": 6959
+            },
+            {
+              "name": "Ремонт",
+              "price": 5521
+            }
+          ]
+        },
+        {
+          "name": "CRM",
+          "price": 24564,
+          "subcategories": [
+            {
+              "name": "Животные",
+              "price": 5408
+            },
+            {
+              "name": "Техника",
+              "price": 3142
+            },
+            {
+              "name": "Кино",
+              "price": 9754
+            },
+            {
+              "name": "Питер",
+              "price": 6260
+            }
+          ]
+        },
+        {
+          "name": "Промо-стойки",
+          "price": 1332,
+          "subcategories": [
+            {
+              "name": "Животные",
+              "price": 1332
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Red Bull",
+      "categories": [
+        {
+          "name": "YouTube",
+          "price": 13540,
+          "subcategories": [
+            {
+              "name": "Питер",
+              "price": 4194
+            },
+            {
+              "name": "Новости",
+              "price": 6044
+            },
+            {
+              "name": "Авто",
+              "price": 3302
+            }
+          ]
+        },
+        {
+          "name": "Амбассадоры",
+          "price": 22303,
+          "subcategories": [
+            {
+              "name": "Smart",
+              "price": 7553
+            },
+            {
+              "name": "Электроника",
+              "price": 7512
+            },
+            {
+              "name": "Книги",
+              "price": 7238
+            }
+          ]
+        },
+        {
+          "name": "Видеореклама",
+          "price": 3598,
+          "subcategories": [
+            {
+              "name": "Дети",
+              "price": 3598
+            }
+          ]
+        },
+        {
+          "name": "Телевидение",
+          "price": 7134,
+          "subcategories": [
+            {
+              "name": "Питер",
+              "price": 7134
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nissan",
+      "categories": [
+        {
+          "name": "Амбассадоры",
+          "price": 13009,
+          "subcategories": [
+            {
+              "name": "Новости",
+              "price": 2267
+            },
+            {
+              "name": "Игры",
+              "price": 3753
+            },
+            {
+              "name": "Премиум",
+              "price": 3382
+            },
+            {
+              "name": "ТВ-шоу",
+              "price": 3607
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Uber",
+      "categories": [
+        {
+          "name": "Аналитика",
+          "price": 26057,
+          "subcategories": [
+            {
+              "name": "Блогеры",
+              "price": 6996
+            },
+            {
+              "name": "Шопинг",
+              "price": 8170
+            },
+            {
+              "name": "Региональные",
+              "price": 3666
+            },
+            {
+              "name": "Образ жизни",
+              "price": 7225
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Airbnb",
+      "categories": [
+        {
+          "name": "Подкасты",
+          "price": 9651,
+          "subcategories": [
+            {
+              "name": "Книги",
+              "price": 3182
+            },
+            {
+              "name": "Эконом",
+              "price": 6469
+            }
+          ]
+        },
+        {
+          "name": "Офлайн-мероприятия",
+          "price": 8941,
+          "subcategories": [
+            {
+              "name": "Культура",
+              "price": 5233
+            },
+            {
+              "name": "Обувь",
+              "price": 3708
+            }
+          ]
+        },
+        {
+          "name": "Печатные СМИ",
+          "price": 16022,
+          "subcategories": [
+            {
+              "name": "DIY",
+              "price": 4493
+            },
+            {
+              "name": "Smart",
+              "price": 6021
+            },
+            {
+              "name": "Образ жизни",
+              "price": 5508
+            }
+          ]
+        },
+        {
+          "name": "Таргетинг",
+          "price": 2268,
+          "subcategories": [
+            {
+              "name": "ЗОЖ",
+              "price": 2268
+            }
+          ]
+        },
+        {
+          "name": "Соцсети",
+          "price": 9860,
+          "subcategories": [
+            {
+              "name": "Кино",
+              "price": 7895
+            },
+            {
+              "name": "Дети",
+              "price": 1965
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "PayPal",
+      "categories": [
+        {
+          "name": "Промо-стойки",
+          "price": 4365,
+          "subcategories": [
+            {
+              "name": "Сериалы",
+              "price": 4365
+            }
+          ]
+        },
+        {
+          "name": "Флаеры",
+          "price": 9857,
+          "subcategories": [
+            {
+              "name": "Интервью",
+              "price": 2666
+            },
+            {
+              "name": "Электроника",
+              "price": 7191
+            }
+          ]
+        },
+        {
+          "name": "Купоны",
+          "price": 28593,
+          "subcategories": [
+            {
+              "name": "Образ жизни",
+              "price": 4898
+            },
+            {
+              "name": "Путешествия",
+              "price": 5995
+            },
+            {
+              "name": "Авто",
+              "price": 9087
+            },
+            {
+              "name": "Новости",
+              "price": 8613
+            }
+          ]
+        },
+        {
+          "name": "Web push",
+          "price": 4219,
+          "subcategories": [
+            {
+              "name": "Красота",
+              "price": 4219
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Visa",
+      "categories": [
+        {
+          "name": "DOOH",
+          "price": 17276,
+          "subcategories": [
+            {
+              "name": "Цветы",
+              "price": 4792
+            },
+            {
+              "name": "Игры",
+              "price": 6414
+            },
+            {
+              "name": "Эконом",
+              "price": 6070
+            }
+          ]
+        },
+        {
+          "name": "CRM",
+          "price": 1247,
+          "subcategories": [
+            {
+              "name": "Гастрономия",
+              "price": 1247
+            }
+          ]
+        },
+        {
+          "name": "Промо-стойки",
+          "price": 9056,
+          "subcategories": [
+            {
+              "name": "Эконом",
+              "price": 6900
+            },
+            {
+              "name": "Игры",
+              "price": 2156
+            }
+          ]
+        },
+        {
+          "name": "Телевидение",
+          "price": 5489,
+          "subcategories": [
+            {
+              "name": "Семья",
+              "price": 5489
+            }
+          ]
+        },
+        {
+          "name": "Печатные СМИ",
+          "price": 15817,
+          "subcategories": [
+            {
+              "name": "Интервью",
+              "price": 7278
+            },
+            {
+              "name": "Обувь",
+              "price": 4101
+            },
+            {
+              "name": "Женщины",
+              "price": 1924
+            },
+            {
+              "name": "Блогеры",
+              "price": 2514
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "MasterCard",
+      "categories": [
+        {
+          "name": "Аналитика",
+          "price": 21403,
+          "subcategories": [
+            {
+              "name": "Финансы",
+              "price": 4090
+            },
+            {
+              "name": "Мода",
+              "price": 3978
+            },
+            {
+              "name": "Аксессуары",
+              "price": 5004
+            },
+            {
+              "name": "Ремонт",
+              "price": 8331
+            }
+          ]
+        },
+        {
+          "name": "SEO",
+          "price": 2701,
+          "subcategories": [
+            {
+              "name": "Питер",
+              "price": 2701
+            }
+          ]
+        },
+        {
+          "name": "AR/VR",
+          "price": 10788,
+          "subcategories": [
+            {
+              "name": "Культура",
+              "price": 3099
+            },
+            {
+              "name": "Техника",
+              "price": 7689
+            }
+          ]
+        },
+        {
+          "name": "Радио",
+          "price": 18524,
+          "subcategories": [
+            {
+              "name": "Туризм",
+              "price": 8075
+            },
+            {
+              "name": "Косметика",
+              "price": 8657
+            },
+            {
+              "name": "Шопинг",
+              "price": 1792
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TikTok",
+      "categories": [
+        {
+          "name": "YouTube",
+          "price": 8619,
+          "subcategories": [
+            {
+              "name": "ЗОЖ",
+              "price": 8619
+            }
+          ]
+        },
+        {
+          "name": "Промо-акции",
+          "price": 21277,
+          "subcategories": [
+            {
+              "name": "Авто",
+              "price": 8469
+            },
+            {
+              "name": "Спорт",
+              "price": 7800
+            },
+            {
+              "name": "Эко",
+              "price": 5008
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Snapchat",
+      "categories": [
+        {
+          "name": "Телевидение",
+          "price": 20124,
+          "subcategories": [
+            {
+              "name": "Игры",
+              "price": 7699
+            },
+            {
+              "name": "ЦА 25-34",
+              "price": 7394
+            },
+            {
+              "name": "Авто",
+              "price": 5031
+            }
+          ]
+        },
+        {
+          "name": "Выставки",
+          "price": 22391,
+          "subcategories": [
+            {
+              "name": "Культура",
+              "price": 8982
+            },
+            {
+              "name": "Животные",
+              "price": 5909
+            },
+            {
+              "name": "Недвижимость",
+              "price": 3221
+            },
+            {
+              "name": "Игры",
+              "price": 4279
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dropbox",
+      "categories": [
+        {
+          "name": "Реклама в играх",
+          "price": 18040,
+          "subcategories": [
+            {
+              "name": "Эко",
+              "price": 7359
+            },
+            {
+              "name": "Техника",
+              "price": 5938
+            },
+            {
+              "name": "Карьера",
+              "price": 4743
+            }
+          ]
+        },
+        {
+          "name": "Промо-акции",
+          "price": 15096,
+          "subcategories": [
+            {
+              "name": "Недвижимость",
+              "price": 8183
+            },
+            {
+              "name": "Интервью",
+              "price": 6913
+            }
+          ]
+        },
+        {
+          "name": "Метро",
+          "price": 6406,
+          "subcategories": [
+            {
+              "name": "Культура",
+              "price": 6406
+            }
+          ]
+        },
+        {
+          "name": "Билборды",
+          "price": 9911,
+          "subcategories": [
+            {
+              "name": "Подарки",
+              "price": 9911
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Slack",
+      "categories": [
+        {
+          "name": "CRM",
+          "price": 27473,
+          "subcategories": [
+            {
+              "name": "Региональные",
+              "price": 6693
+            },
+            {
+              "name": "Комиксы",
+              "price": 7179
+            },
+            {
+              "name": "IT",
+              "price": 4805
+            },
+            {
+              "name": "Эко",
+              "price": 8796
+            }
+          ]
+        },
+        {
+          "name": "DOOH",
+          "price": 2850,
+          "subcategories": [
+            {
+              "name": "Финансы",
+              "price": 2850
+            }
+          ]
+        },
+        {
+          "name": "PR",
+          "price": 1489,
+          "subcategories": [
+            {
+              "name": "Дом",
+              "price": 1489
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spotify",
+      "categories": [
+        {
+          "name": "Соцсети",
+          "price": 26173,
+          "subcategories": [
+            {
+              "name": "CA 35-50",
+              "price": 7077
+            },
+            {
+              "name": "Мода",
+              "price": 9814
+            },
+            {
+              "name": "Дом",
+              "price": 3821
+            },
+            {
+              "name": "Премиум",
+              "price": 5461
+            }
+          ]
+        },
+        {
+          "name": "Интерактив",
+          "price": 6364,
+          "subcategories": [
+            {
+              "name": "Шопинг",
+              "price": 6364
+            }
+          ]
+        },
+        {
+          "name": "Интернет-магазины",
+          "price": 17238,
+          "subcategories": [
+            {
+              "name": "Культура",
+              "price": 8331
+            },
+            {
+              "name": "Эко",
+              "price": 8907
+            }
+          ]
+        },
+        {
+          "name": "Выставки",
+          "price": 17714,
+          "subcategories": [
+            {
+              "name": "DIY",
+              "price": 8118
+            },
+            {
+              "name": "Техника",
+              "price": 9596
+            }
+          ]
+        },
+        {
+          "name": "Флаеры",
+          "price": 11902,
+          "subcategories": [
+            {
+              "name": "Питер",
+              "price": 3575
+            },
+            {
+              "name": "Дом",
+              "price": 8327
+            }
+          ]
+        },
+        {
+          "name": "PR",
+          "price": 7913,
+          "subcategories": [
+            {
+              "name": "Кино",
+              "price": 2719
+            },
+            {
+              "name": "Технологии",
+              "price": 5194
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Asus",
+      "categories": [
+        {
+          "name": "Тренды",
+          "price": 7173,
+          "subcategories": [
+            {
+              "name": "Мода",
+              "price": 7173
+            }
+          ]
+        },
+        {
+          "name": "Баннеры",
+          "price": 20079,
+          "subcategories": [
+            {
+              "name": "Женщины",
+              "price": 8052
+            },
+            {
+              "name": "IT",
+              "price": 7177
+            },
+            {
+              "name": "Гастрономия",
+              "price": 4850
+            }
+          ]
+        },
+        {
+          "name": "Телевидение",
+          "price": 9870,
+          "subcategories": [
+            {
+              "name": "Блогеры",
+              "price": 1270
+            },
+            {
+              "name": "Кино",
+              "price": 6055
+            },
+            {
+              "name": "Мобильные",
+              "price": 2545
+            }
+          ]
+        },
+        {
+          "name": "Прямая рассылка",
+          "price": 21985,
+          "subcategories": [
+            {
+              "name": "Свадьба",
+              "price": 4021
+            },
+            {
+              "name": "Книги",
+              "price": 2102
+            },
+            {
+              "name": "Красота",
+              "price": 7591
+            },
+            {
+              "name": "Smart",
+              "price": 8271
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Acer",
+      "categories": [
+        {
+          "name": "Инфлюенсеры",
+          "price": 21053,
+          "subcategories": [
+            {
+              "name": "Премиум",
+              "price": 3246
+            },
+            {
+              "name": "Дом",
+              "price": 4413
+            },
+            {
+              "name": "Цветы",
+              "price": 4419
+            },
+            {
+              "name": "Молодежь",
+              "price": 8975
+            }
+          ]
+        },
+        {
+          "name": "Радио",
+          "price": 13273,
+          "subcategories": [
+            {
+              "name": "Электроника",
+              "price": 7377
+            },
+            {
+              "name": "Шопинг",
+              "price": 5896
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Canon",
+      "categories": [
+        {
+          "name": "Интерактив",
+          "price": 10431,
+          "subcategories": [
+            {
+              "name": "Авто",
+              "price": 6118
+            },
+            {
+              "name": "Дом",
+              "price": 4313
+            }
+          ]
+        },
+        {
+          "name": "Медиа планирование",
+          "price": 21187,
+          "subcategories": [
+            {
+              "name": "Финансы",
+              "price": 8953
+            },
+            {
+              "name": "Путешествия",
+              "price": 5762
+            },
+            {
+              "name": "DIY",
+              "price": 2155
+            },
+            {
+              "name": "Интервью",
+              "price": 4317
+            }
+          ]
+        },
+        {
+          "name": "Телевидение",
+          "price": 12578,
+          "subcategories": [
+            {
+              "name": "Обучение",
+              "price": 1825
+            },
+            {
+              "name": "Свадьба",
+              "price": 1070
+            },
+            {
+              "name": "ЦА 25-34",
+              "price": 1622
+            },
+            {
+              "name": "Дом",
+              "price": 8061
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nikon",
+      "categories": [
+        {
+          "name": "CRM",
+          "price": 17539,
+          "subcategories": [
+            {
+              "name": "Блогеры",
+              "price": 6448
+            },
+            {
+              "name": "Красота",
+              "price": 8304
+            },
+            {
+              "name": "DIY",
+              "price": 2787
+            }
+          ]
+        },
+        {
+          "name": "YouTube",
+          "price": 11335,
+          "subcategories": [
+            {
+              "name": "Электроника",
+              "price": 4329
+            },
+            {
+              "name": "Семья",
+              "price": 2850
+            },
+            {
+              "name": "Музыка",
+              "price": 4156
+            }
+          ]
+        },
+        {
+          "name": "Флаеры",
+          "price": 14828,
+          "subcategories": [
+            {
+              "name": "Дом",
+              "price": 8659
+            },
+            {
+              "name": "Сериалы",
+              "price": 6169
+            }
+          ]
+        },
+        {
+          "name": "Контекст",
+          "price": 17196,
+          "subcategories": [
+            {
+              "name": "Красота",
+              "price": 6276
+            },
+            {
+              "name": "ЗОЖ",
+              "price": 1634
+            },
+            {
+              "name": "Аксессуары",
+              "price": 9286
+            }
+          ]
+        },
+        {
+          "name": "Телевидение",
+          "price": 9325,
+          "subcategories": [
+            {
+              "name": "Свадьба",
+              "price": 3284
+            },
+            {
+              "name": "Эко",
+              "price": 6041
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rolex",
+      "categories": [
+        {
+          "name": "CRM",
+          "price": 3178,
+          "subcategories": [
+            {
+              "name": "Развлечения",
+              "price": 3178
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cartier",
+      "categories": [
+        {
+          "name": "Инфлюенсеры",
+          "price": 17763,
+          "subcategories": [
+            {
+              "name": "Цветы",
+              "price": 8081
+            },
+            {
+              "name": "Обувь",
+              "price": 9682
+            }
+          ]
+        },
+        {
+          "name": "Сэмплинг",
+          "price": 23822,
+          "subcategories": [
+            {
+              "name": "Красота",
+              "price": 9196
+            },
+            {
+              "name": "Туризм",
+              "price": 3175
+            },
+            {
+              "name": "Развлечения",
+              "price": 8914
+            },
+            {
+              "name": "ЗОЖ",
+              "price": 2537
+            }
+          ]
+        },
+        {
+          "name": "Купоны",
+          "price": 3132,
+          "subcategories": [
+            {
+              "name": "Технологии",
+              "price": 3132
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dior",
+      "categories": [
+        {
+          "name": "Реклама в играх",
+          "price": 4334,
+          "subcategories": [
+            {
+              "name": "Подарки",
+              "price": 2310
+            },
+            {
+              "name": "Обучение",
+              "price": 2024
+            }
+          ]
+        },
+        {
+          "name": "Телевидение",
+          "price": 9672,
+          "subcategories": [
+            {
+              "name": "Авто",
+              "price": 7963
+            },
+            {
+              "name": "CA 35-50",
+              "price": 1709
+            }
+          ]
+        },
+        {
+          "name": "PR",
+          "price": 28325,
+          "subcategories": [
+            {
+              "name": "Гастрономия",
+              "price": 7419
+            },
+            {
+              "name": "Обучение",
+              "price": 8003
+            },
+            {
+              "name": "Культура",
+              "price": 9011
+            },
+            {
+              "name": "Обувь",
+              "price": 3892
+            }
+          ]
+        },
+        {
+          "name": "Офлайн-мероприятия",
+          "price": 18135,
+          "subcategories": [
+            {
+              "name": "ТВ-шоу",
+              "price": 1471
+            },
+            {
+              "name": "Комиксы",
+              "price": 6800
+            },
+            {
+              "name": "Молодежь",
+              "price": 4286
+            },
+            {
+              "name": "Дети",
+              "price": 5578
+            }
+          ]
+        },
+        {
+          "name": "Билборды",
+          "price": 2990,
+          "subcategories": [
+            {
+              "name": "Развлечения",
+              "price": 2990
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chanel",
+      "categories": [
+        {
+          "name": "Инфлюенсеры",
+          "price": 16583,
+          "subcategories": [
+            {
+              "name": "Косметика",
+              "price": 2786
+            },
+            {
+              "name": "Электроника",
+              "price": 6559
+            },
+            {
+              "name": "Красота",
+              "price": 7238
+            }
+          ]
+        },
+        {
+          "name": "Email-маркетинг",
+          "price": 4841,
+          "subcategories": [
+            {
+              "name": "ЗОЖ",
+              "price": 4841
+            }
+          ]
+        },
+        {
+          "name": "Флаеры",
+          "price": 1067,
+          "subcategories": [
+            {
+              "name": "Культура",
+              "price": 1067
+            }
+          ]
+        },
+        {
+          "name": "Метро",
+          "price": 8098,
+          "subcategories": [
+            {
+              "name": "Культура",
+              "price": 5960
+            },
+            {
+              "name": "Дети",
+              "price": 2138
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gucci",
+      "categories": [
+        {
+          "name": "Выставки",
+          "price": 21730,
+          "subcategories": [
+            {
+              "name": "Сериалы",
+              "price": 3411
+            },
+            {
+              "name": "ЗОЖ",
+              "price": 8588
+            },
+            {
+              "name": "Гастрономия",
+              "price": 9731
+            }
+          ]
+        },
+        {
+          "name": "Интерактив",
+          "price": 8185,
+          "subcategories": [
+            {
+              "name": "Цветы",
+              "price": 1978
+            },
+            {
+              "name": "Недвижимость",
+              "price": 5106
+            },
+            {
+              "name": "Игры",
+              "price": 1101
+            }
+          ]
+        },
+        {
+          "name": "Сэмплинг",
+          "price": 15480,
+          "subcategories": [
+            {
+              "name": "Образ жизни",
+              "price": 8484
+            },
+            {
+              "name": "DIY",
+              "price": 6996
+            }
+          ]
+        },
+        {
+          "name": "Тренды",
+          "price": 24882,
+          "subcategories": [
+            {
+              "name": "Москва",
+              "price": 7234
+            },
+            {
+              "name": "Сериалы",
+              "price": 4782
+            },
+            {
+              "name": "Аксессуары",
+              "price": 6927
+            },
+            {
+              "name": "ЦА 25-34",
+              "price": 5939
+            }
+          ]
+        },
+        {
+          "name": "YouTube",
+          "price": 4571,
+          "subcategories": [
+            {
+              "name": "Подарки",
+              "price": 2756
+            },
+            {
+              "name": "Путешествия",
+              "price": 1815
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Prada",
+      "categories": [
+        {
+          "name": "Купоны",
+          "price": 16713,
+          "subcategories": [
+            {
+              "name": "Новости",
+              "price": 6288
+            },
+            {
+              "name": "Образ жизни",
+              "price": 5606
+            },
+            {
+              "name": "Цветы",
+              "price": 4819
+            }
+          ]
+        },
+        {
+          "name": "Спонсорство",
+          "price": 5310,
+          "subcategories": [
+            {
+              "name": "Премиум",
+              "price": 5310
+            }
+          ]
+        },
+        {
+          "name": "Радио",
+          "price": 19190,
+          "subcategories": [
+            {
+              "name": "Обувь",
+              "price": 5774
+            },
+            {
+              "name": "Гастрономия",
+              "price": 8300
+            },
+            {
+              "name": "Эко",
+              "price": 3837
+            },
+            {
+              "name": "Мода",
+              "price": 1279
+            }
+          ]
+        },
+        {
+          "name": "Офлайн-мероприятия",
+          "price": 25300,
+          "subcategories": [
+            {
+              "name": "Обувь",
+              "price": 8748
+            },
+            {
+              "name": "Культура",
+              "price": 7085
+            },
+            {
+              "name": "Развлечения",
+              "price": 2215
+            },
+            {
+              "name": "Техника",
+              "price": 7252
+            }
+          ]
+        },
+        {
+          "name": "YouTube",
+          "price": 19230,
+          "subcategories": [
+            {
+              "name": "Старшее поколение",
+              "price": 2403
+            },
+            {
+              "name": "Питер",
+              "price": 5595
+            },
+            {
+              "name": "Новости",
+              "price": 8373
+            },
+            {
+              "name": "Дом",
+              "price": 2859
+            }
+          ]
+        },
+        {
+          "name": "Промо-акции",
+          "price": 11142,
+          "subcategories": [
+            {
+              "name": "Путешествия",
+              "price": 7931
+            },
+            {
+              "name": "Шопинг",
+              "price": 3211
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Balenciaga",
+      "categories": [
+        {
+          "name": "Радио",
+          "price": 18295,
+          "subcategories": [
+            {
+              "name": "Образ жизни",
+              "price": 4504
+            },
+            {
+              "name": "Live",
+              "price": 4596
+            },
+            {
+              "name": "Подарки",
+              "price": 6872
+            },
+            {
+              "name": "Животные",
+              "price": 2323
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reebok",
+      "categories": [
+        {
+          "name": "Интернет-магазины",
+          "price": 14119,
+          "subcategories": [
+            {
+              "name": "Дети",
+              "price": 6621
+            },
+            {
+              "name": "IT",
+              "price": 5858
+            },
+            {
+              "name": "Игры",
+              "price": 1640
+            }
+          ]
+        },
+        {
+          "name": "Спонсорство",
+          "price": 26988,
+          "subcategories": [
+            {
+              "name": "Техника",
+              "price": 7866
+            },
+            {
+              "name": "Животные",
+              "price": 7788
+            },
+            {
+              "name": "Обучение",
+              "price": 5023
+            },
+            {
+              "name": "Шопинг",
+              "price": 6311
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tiffany",
+      "categories": [
+        {
+          "name": "Аналитика",
+          "price": 9428,
+          "subcategories": [
+            {
+              "name": "Бизнес",
+              "price": 7132
+            },
+            {
+              "name": "Спорт",
+              "price": 2296
+            }
+          ]
+        },
+        {
+          "name": "Наружная реклама",
+          "price": 1106,
+          "subcategories": [
+            {
+              "name": "Мода",
+              "price": 1106
+            }
+          ]
+        },
+        {
+          "name": "Печатные СМИ",
+          "price": 23860,
+          "subcategories": [
+            {
+              "name": "Гастрономия",
+              "price": 3540
+            },
+            {
+              "name": "IT",
+              "price": 2089
+            },
+            {
+              "name": "Эконом",
+              "price": 9430
+            },
+            {
+              "name": "Аксессуары",
+              "price": 8801
+            }
+          ]
+        },
+        {
+          "name": "Выставки",
+          "price": 9340,
+          "subcategories": [
+            {
+              "name": "DIY",
+              "price": 6522
+            },
+            {
+              "name": "Москва",
+              "price": 2818
+            }
+          ]
+        },
+        {
+          "name": "PR",
+          "price": 35217,
+          "subcategories": [
+            {
+              "name": "Комиксы",
+              "price": 8765
+            },
+            {
+              "name": "Старшее поколение",
+              "price": 9446
+            },
+            {
+              "name": "Технологии",
+              "price": 9587
+            },
+            {
+              "name": "IT",
+              "price": 7419
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dell",
+      "categories": [
+        {
+          "name": "Контекст",
+          "price": 5175,
+          "subcategories": [
+            {
+              "name": "Эконом",
+              "price": 3544
+            },
+            {
+              "name": "Подарки",
+              "price": 1631
+            }
+          ]
+        },
+        {
+          "name": "Офлайн-мероприятия",
+          "price": 13036,
+          "subcategories": [
+            {
+              "name": "Образ жизни",
+              "price": 6141
+            },
+            {
+              "name": "Мода",
+              "price": 6895
+            }
+          ]
+        },
+        {
+          "name": "Реклама в играх",
+          "price": 11363,
+          "subcategories": [
+            {
+              "name": "Финансы",
+              "price": 2554
+            },
+            {
+              "name": "Шопинг",
+              "price": 8809
+            }
+          ]
+        },
+        {
+          "name": "RTB",
+          "price": 10649,
+          "subcategories": [
+            {
+              "name": "Культура",
+              "price": 5845
+            },
+            {
+              "name": "Музыка",
+              "price": 4804
+            }
+          ]
+        }
       ]
     }
   ]
